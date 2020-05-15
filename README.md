@@ -4,3 +4,4 @@ cd App path ,
 yarn >> cd ios >> pod install,
 
 npx react-native run-android ,or  npx react-native run-ios
+# search_task_db
